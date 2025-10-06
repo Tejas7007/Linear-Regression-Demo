@@ -66,13 +66,6 @@ The Boston Housing dataset is a well-known dataset in machine learning, often us
 
 The model explains about 72% of the variance in housing prices. While results are reasonable, there is scope for improvement with more advanced techniques.
 
-## Future Work
-
-- Apply regularization methods (Ridge, Lasso) to reduce multicollinearity.  
-- Experiment with Polynomial Regression or tree-based models.  
-- Add cross-validation for robust evaluation.  
-- Deploy the model as a small web application.  
-
 ## Tools and Libraries
 
 - Python  
